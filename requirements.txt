@@ -5,3 +5,4 @@ scipy
 openpyxl
 seaborn
 Jinja2
+statsmodels
